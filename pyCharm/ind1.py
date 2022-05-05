@@ -1,6 +1,6 @@
-# 18 var - 18 zad
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# 18 var - 18 zad
 
 
 if __name__ == "__main__":

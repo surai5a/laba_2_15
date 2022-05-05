@@ -1,3 +1,6 @@
+# !/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # Задача: написать программу, создающую структуру каталогов
 # в выбранном каталоге
 # bin
@@ -6,9 +9,6 @@
 #       jpeg
 #   filters
 #   dlls
-
-# !/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 import os
 import sys
